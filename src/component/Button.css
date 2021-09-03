@@ -25,3 +25,8 @@
   background-color: #f5923e;
   color: white;
 }
+
+.component-button.blue button {
+  background-color: #00a7d1;
+  color: white;
+}
